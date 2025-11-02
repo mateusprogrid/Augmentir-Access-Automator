@@ -1,6 +1,6 @@
 # ⚙️ Augmentir Access Automator (Python)
 
-Automação desenvolvida para otimizar o processo de liberação de acessos na plataforma **[Augmentir](https://app.augmentir.com)**
+Automação desenvolvida para otimizar o processo de liberação de acessos na plataforma **[Augmentir](https://www.augmentir.com/)**
 Este projeto nasceu de uma necessidade real no estágio de **Sistemas de Manufatura**, onde o processo manual de verificação e criação de acessos levava até **45 minutos**.  
 Com esta automação em **Python + Selenium**, o mesmo fluxo é executado em **menos de 10 minutos**, com precisão e logs automáticos.
 
